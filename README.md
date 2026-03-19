@@ -15,7 +15,8 @@
 
 Проект основан на курсе **100 Days of SwiftUI** (Paul Hudson)
 https://www.hackingwithswift.com/100/swifui
-**---
+
+---
 
 ## 🧪 Эксперимент
 
