@@ -13,7 +13,7 @@
 Поставил цель:
 👉 освоить новый язык программирования с нуля за максимально короткий срок (14 дней)
 
-Проект основан на курсе **100 Days of SwiftUI (Paul Hudson)**.
+Проект основан на курсе **100 Days of SwiftUI** (Paul Hudson)
 https://www.hackingwithswift.com/100/swifui
 **---
 
