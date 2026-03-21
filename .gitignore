@@ -1,3 +1,41 @@
+# macOS
 .DS_Store
+
+# Xcode user data
 xcuserdata/
 *.xcuserstate
+*.xcworkspace/xcuserdata/
+
+# Build folders
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+
+# Xcode project management
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code coverage / test results
+*.profdata
+*.xccovarchive
+*.xccovreport
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
