@@ -35,16 +35,6 @@
 			path = "Converter(distance)";
 			sourceTree = "<group>";
 		};
-		43CD262F2F6C7DA100072E5B /* Converter(distance)Tests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Converter(distance)Tests";
-			sourceTree = "<group>";
-		};
-		43CD26392F6C7DA100072E5B /* Converter(distance)UITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Converter(distance)UITests";
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				43CD26212F6C7D9E00072E5B /* Converter(distance) */,
-				43CD262F2F6C7DA100072E5B /* Converter(distance)Tests */,
-				43CD26392F6C7DA100072E5B /* Converter(distance)UITests */,
 				43CD26202F6C7D9E00072E5B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				43CD262E2F6C7DA100072E5B /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				43CD262F2F6C7DA100072E5B /* Converter(distance)Tests */,
-			);
 			name = "Converter(distance)Tests";
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				43CD26382F6C7DA100072E5B /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				43CD26392F6C7DA100072E5B /* Converter(distance)UITests */,
 			);
 			name = "Converter(distance)UITests";
 			packageProductDependencies = (

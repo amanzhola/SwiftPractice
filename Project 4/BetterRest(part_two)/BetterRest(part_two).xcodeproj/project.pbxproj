@@ -35,16 +35,6 @@
 			path = "BetterRest(part_two)";
 			sourceTree = "<group>";
 		};
-		43CD28A92F6F02C800072E5B /* BetterRest(part_two)Tests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "BetterRest(part_two)Tests";
-			sourceTree = "<group>";
-		};
-		43CD28B32F6F02C800072E5B /* BetterRest(part_two)UITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "BetterRest(part_two)UITests";
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				43CD289B2F6F02C600072E5B /* BetterRest(part_two) */,
-				43CD28A92F6F02C800072E5B /* BetterRest(part_two)Tests */,
-				43CD28B32F6F02C800072E5B /* BetterRest(part_two)UITests */,
 				43CD289A2F6F02C600072E5B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				43CD28A82F6F02C800072E5B /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				43CD28A92F6F02C800072E5B /* BetterRest(part_two)Tests */,
-			);
 			name = "BetterRest(part_two)Tests";
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				43CD28B22F6F02C800072E5B /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				43CD28B32F6F02C800072E5B /* BetterRest(part_two)UITests */,
 			);
 			name = "BetterRest(part_two)UITests";
 			packageProductDependencies = (

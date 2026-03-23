@@ -35,16 +35,6 @@
 			path = "GuessTheFlag(part3)";
 			sourceTree = "<group>";
 		};
-		43CD26FF2F6DA1CF00072E5B /* GuessTheFlag(part3)Tests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "GuessTheFlag(part3)Tests";
-			sourceTree = "<group>";
-		};
-		43CD27092F6DA1CF00072E5B /* GuessTheFlag(part3)UITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "GuessTheFlag(part3)UITests";
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				43CD26F12F6DA1CC00072E5B /* GuessTheFlag(part3) */,
-				43CD26FF2F6DA1CF00072E5B /* GuessTheFlag(part3)Tests */,
-				43CD27092F6DA1CF00072E5B /* GuessTheFlag(part3)UITests */,
 				43CD26F02F6DA1CC00072E5B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				43CD26FE2F6DA1CF00072E5B /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				43CD26FF2F6DA1CF00072E5B /* GuessTheFlag(part3)Tests */,
-			);
 			name = "GuessTheFlag(part3)Tests";
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				43CD27082F6DA1CF00072E5B /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				43CD27092F6DA1CF00072E5B /* GuessTheFlag(part3)UITests */,
 			);
 			name = "GuessTheFlag(part3)UITests";
 			packageProductDependencies = (

@@ -35,16 +35,6 @@
 			path = "Animations(part_two)";
 			sourceTree = "<group>";
 		};
-		43CD2AF02F707FFE00072E5B /* Animations(part_two)Tests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Animations(part_two)Tests";
-			sourceTree = "<group>";
-		};
-		43CD2AFA2F707FFE00072E5B /* Animations(part_two)UITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Animations(part_two)UITests";
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				43CD2AE22F707FFB00072E5B /* Animations(part_two) */,
-				43CD2AF02F707FFE00072E5B /* Animations(part_two)Tests */,
-				43CD2AFA2F707FFE00072E5B /* Animations(part_two)UITests */,
 				43CD2AE12F707FFB00072E5B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				43CD2AEF2F707FFE00072E5B /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				43CD2AF02F707FFE00072E5B /* Animations(part_two)Tests */,
-			);
 			name = "Animations(part_two)Tests";
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				43CD2AF92F707FFE00072E5B /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				43CD2AFA2F707FFE00072E5B /* Animations(part_two)UITests */,
 			);
 			name = "Animations(part_two)UITests";
 			packageProductDependencies = (

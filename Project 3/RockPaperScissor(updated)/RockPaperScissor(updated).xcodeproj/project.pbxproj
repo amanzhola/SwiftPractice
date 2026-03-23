@@ -35,16 +35,6 @@
 			path = "RockPaperScissor(updated)";
 			sourceTree = "<group>";
 		};
-		43CD28372F6EBA9600072E5B /* RockPaperScissor(updated)Tests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "RockPaperScissor(updated)Tests";
-			sourceTree = "<group>";
-		};
-		43CD28412F6EBA9600072E5B /* RockPaperScissor(updated)UITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "RockPaperScissor(updated)UITests";
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				43CD28292F6EBA9400072E5B /* RockPaperScissor(updated) */,
-				43CD28372F6EBA9600072E5B /* RockPaperScissor(updated)Tests */,
-				43CD28412F6EBA9600072E5B /* RockPaperScissor(updated)UITests */,
 				43CD28282F6EBA9400072E5B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				43CD28362F6EBA9600072E5B /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				43CD28372F6EBA9600072E5B /* RockPaperScissor(updated)Tests */,
-			);
 			name = "RockPaperScissor(updated)Tests";
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				43CD28402F6EBA9600072E5B /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				43CD28412F6EBA9600072E5B /* RockPaperScissor(updated)UITests */,
 			);
 			name = "RockPaperScissor(updated)UITests";
 			packageProductDependencies = (
