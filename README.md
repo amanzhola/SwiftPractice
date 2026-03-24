@@ -164,18 +164,14 @@ Images/
 
 ## 🚀 Итог за 14 дней
 
-* Пройдено: **42 дня курса**
-* Темп: ускоренный (~3x)
-* Создано: **8 проектов**
+* Пройдено: **42 дня курса** | * Темп: ускоренный (~3x) | * Создано: **8 проектов**
 * Освоено:
-
   * Swift
   * SwiftUI
   * Navigation
   * Grid / List
   * Codable
   * JSON
-
 ---
 
 ## English version (en)
@@ -279,15 +275,11 @@ Can I:
 
 ## 🏁 Current Result
 
-* Day: **14 / 14**
-* Completed: **Day 42 of the course**
-* Finished projects: **8**
+* Day: **14 / 14** | * Completed: **Day 42 of the course** | * Finished projects: **8**
 * Extra:
-
   * Milestone: Projects 1–3
   * Milestone: Projects 4–6
   * Challenge Day
-
 ---
 
 ## 📦 Projects Grid
@@ -321,11 +313,7 @@ Including:
 
 ---
 
-## 🚀 Final Result (14 days)
-
-* ~42 days of course completed
-* 8 real projects built
-* Strong SwiftUI foundation
+🚀 Final Result (14 days) | * ~42 days of course completed | * 8 real projects built | * Strong SwiftUI foundation
 
 ---
 
