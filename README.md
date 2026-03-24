@@ -332,5 +332,3 @@ Including:
 ## 🧑‍💻 Author
 
 Amanzhol Aimov
-
-```
