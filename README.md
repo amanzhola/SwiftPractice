@@ -105,7 +105,7 @@ https://www.hackingwithswift.com/100/swifui
 
 ---
 
-# 🆕 ОБНОВЛЕНИЕ — ДЕНЬ 14 (24 марта 2026)
+🆕 ОБНОВЛЕНИЕ — ДЕНЬ 14 (24 марта 2026)
 
 ## 🏁 Текущий результат
 
@@ -275,7 +275,7 @@ Can I:
 
 ---
 
-# 🆕 UPDATE — DAY 14 (March 24, 2026)
+🆕 UPDATE — DAY 14 (March 24, 2026)
 
 ## 🏁 Current Result
 
