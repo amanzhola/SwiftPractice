@@ -36,9 +36,9 @@ https://www.hackingwithswift.com/100/swifui
 
 ## ⏱️ Цели
 
-- 14 дней → оценить результат  
-- 24 марта → достичь ~30 дней курса  
-- Завершить курс максимально быстро  
+- 14 дней → оценить результат      ⭐
+- 24 марта → достичь ~30 дней курса⭐  
+- Завершить курс максимально быстро⭐  
 
 ---
 
@@ -46,9 +46,9 @@ https://www.hackingwithswift.com/100/swifui
 
 Отслеживаю:
 
-- Количество пройденных дней курса  
-- Количество завершённых проектов  
-- Скорость обучения  
+- Количество пройденных дней курса  ⭐
+- Количество завершённых проектов   ⭐
+- Скорость обучения                 ⭐
 
 ---
 
@@ -58,7 +58,7 @@ https://www.hackingwithswift.com/100/swifui
 - Checkpoint1–Checkpoint9 (Swift Playgrounds)
 - draft.playground (эксперименты и практика)
 
-### 2. Challenge Day
+### 2. Challenge Day 🔥
 - ConverterDistance  
 - ConverterTemperature  
 
@@ -71,7 +71,7 @@ https://www.hackingwithswift.com/100/swifui
 
 ---
 
-## 📈 Ожидаемый результат (14 дней)
+## 📈 Ожидаемый результат (14 дней) ⭐🔥
 
 - ~30 дней курса  
 - 3–4 завершённых проекта  
@@ -105,19 +105,18 @@ https://www.hackingwithswift.com/100/swifui
 
 ---
 
-🆕 ОБНОВЛЕНИЕ — ДЕНЬ 14 (24 марта 2026)
+🆕 ОБНОВЛЕНИЕ — ДЕНЬ 14 (24 марта 2026) ⭐🔥
 
 ## 🏁 Текущий результат
 
-- День: **14 / 14**
-- Дата: **24 марта 2026**
-- Завершено: **Day 42 курса**
-- Полностью сделано: **8 проектов**
-- Дополнительно:
-  - Milestone: Projects 1–3  
-  - Milestone: Projects 4–6  
-  - Challenge Day  
-
+- ✨ День: **14 / 14**
+- ✨ Дата: **24 марта 2026**
+- ✨ Завершено: **Day 42 курса**
+- ✨ Полностью сделано: **8 проектов**
+- 💫 Дополнительно:
+  - 💫 Milestone: Projects 1–3  
+  - 💫 Milestone: Projects 4–6  
+  - 💫Challenge Day  
 ---
 
 ## 📦 Проекты (сетка)
@@ -145,10 +144,10 @@ Images/
 
 Внутри:
 
-* Скриншоты приложений
-* UI экранов
-* Результаты работы
-* Прогресс разработки
+* 📸 Скриншоты приложений
+* 🖼️ UI экранов
+* 💼 Результаты работы
+* 🧠 Прогресс разработки
 
 ---
 
@@ -165,7 +164,7 @@ Images/
 ## 🚀 Итог за 14 дней
 
 * Пройдено: **42 дня курса** | * Темп: ускоренный (~3x) | * Создано: **8 проектов**
-* Освоено: * Swift * SwiftUI * Navigation * Grid / List * Codable * JSON
+💫 Освоено: ⭐ Swift ✨ SwiftUI 🌟 Navigation ✳️ Grid / List ✴️ Codable ⭐ JSON
 ---
 
 ## English version (en)
@@ -270,7 +269,7 @@ Can I:
 ## 🏁 Current Result
 
 * Day: **14 / 14** | * Completed: **Day 42 of the course** | * Finished projects: **8**
-* Extra: * Milestone: Projects 1–3 * Milestone: Projects 4–6 * Challenge Day
+* Extra: ✨ Milestone: Projects 1–3 🌟 Milestone: Projects 4–6 💫 Challenge Day
 ---
 
 ## 📦 Projects Grid
@@ -298,13 +297,13 @@ Images/
 
 Including:
 
-* UI screenshots
-* App states
-* Progress tracking
+* 📸 UI screenshots
+* 🖼️ App states
+* 🧠 Progress tracking
 
 ---
 
-🚀 **Final Result (14 days)** | * ~42 days of course completed | * 8 real projects built | * Strong SwiftUI foundation
+🚀 **Final Result (14 days)** | 🌟 ~42 days of course completed | ✨ 8 real projects built | ⭐ Strong SwiftUI foundation
 
 ---
 
