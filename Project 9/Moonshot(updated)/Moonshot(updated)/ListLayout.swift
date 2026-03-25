@@ -1,21 +1,18 @@
 //
 //  ListLayout.swift
-//  Moonshot(part_four)
+//  Moonshot(updated)
 //
-//  Created by Amanzhol on 24.03.2026.
+//  Created by Amanzhol on 25.03.2026.
 //
 
 import SwiftUI
 
 struct ListLayout: View {
     let missions: [Mission]
-    let astronauts: [String: Astronaut]
 
     var body: some View {
         List(missions) { mission in
-            NavigationLink {
-                MissionView(mission: mission, astronauts: astronauts)
-            } label: {
+            NavigationLink(value: mission) {
                 HStack {
                     Image(mission.image)
                         .resizable()
@@ -40,11 +37,10 @@ struct ListLayout: View {
 }
 
 #Preview {
-    let astronauts: [String: Astronaut] = Bundle.main.decode("astronauts.json")
     let missions: [Mission] = Bundle.main.decode("missions.json")
 
     return NavigationStack {
-        ListLayout(missions: missions, astronauts: astronauts)
+        ListLayout(missions: missions)
             .navigationTitle("Moonshot")
             .background(.darkBackground)
     }

@@ -1,8 +1,8 @@
 //
 //  CrewScrollView.swift
-//  Moonshot(part_four)
+//  Moonshot(updated)
 //
-//  Created by Amanzhol on 24.03.2026.
+//  Created by Amanzhol on 25.03.2026.
 //
 
 import SwiftUI
@@ -14,9 +14,7 @@ struct CrewScrollView: View {
         ScrollView(.horizontal, showsIndicators: false) {
             HStack {
                 ForEach(crew, id: \.role) { member in
-                    NavigationLink {
-                        AstronautView(astronaut: member.astronaut)
-                    } label: {
+                    NavigationLink(value: member.astronaut) {
                         HStack {
                             Image(member.astronaut.id)
                                 .resizable()
@@ -61,5 +59,8 @@ struct CrewScrollView: View {
             .padding(.vertical)
             .background(.darkBackground)
             .preferredColorScheme(.dark)
+            .navigationDestination(for: Astronaut.self) { astronaut in
+                AstronautView(astronaut: astronaut)
+            }
     }
 }
