@@ -70,27 +70,26 @@ Using this data, the app calculates the ideal bedtime.
 
 ## Part One
 
-![Part One](BetterRest(part_one)/Images/Simulator Screenshot - iPhone 16 Pro - 2026-03-25 at 14.41.54.png)
+![Part One](BetterRest(part_one)/Images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-03-25%20at%2014.41.54.png)
 
 ---
 
 ## Part Two
 
-![Part Two](BetterRest(part_two)/Images/Simulator Screenshot - iPhone 16 Pro - 2026-03-25 at 14.42.52.png)
-![Part Two](BetterRest(part_two)/Images/Simulator Screenshot - iPhone 16 Pro - 2026-03-25 at 14.43.08.png)
+![Part Two](BetterRest(part_two)/Images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-03-25%20at%2014.42.52.png)
+![Part Two](BetterRest(part_two)/Images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-03-25%20at%2014.43.08.png)
 
 ---
 
 ## Part Three
 
-![Part Three](BetterRest(part_three)/Images/Simulator Screenshot - iPhone 16 Pro - 2026-03-25 at 14.44.16.png)
-![Part Three](BetterRest(part_three)/Images/Simulator Screenshot - iPhone 16 Pro - 2026-03-25 at 14.44.29.png)
-![Part Three](BetterRest(part_three)/Images/Simulator Screenshot - iPhone 16 Pro - 2026-03-25 at 14.44.43.png)
+![Part Three](BetterRest(part_three)/Images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-03-25%20at%2014.44.16.png)
+![Part Three](BetterRest(part_three)/Images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-03-25%20at%2014.44.29.png)
+![Part Three](BetterRest(part_three)/Images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-03-25%20at%2014.44.43.png)
 
 ---
 
 ## Additional Screens
 
-![Extra](Images/Screenshot 2026-03-22 at 02.36.51.png)
-![Extra](Images/Screenshot 2026-03-22 at 02.37.53.png)
-
+![Extra](Images/Screenshot%202026-03-22%20at%2002.36.51.png)
+![Extra](Images/Screenshot%202026-03-22%20at%2002.37.53.png)
