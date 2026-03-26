@@ -7,27 +7,27 @@ A SwiftUI app that allows users to order cupcakes, send data to a server, and ha
 ## 🚀 Features
 
 - Select cake type and quantity
-- Add special requests (extra frosting, sprinkles)
+- Add special requests (extra frosting and sprinkles)
 - Enter delivery address
-- Validate input (including whitespace handling)
-- Send order via HTTP POST request
-- Handle network errors gracefully
-- Persist user address using UserDefaults
-- Modern UI with gradients and reusable modifiers
+- Validate input, including whitespace-only text
+- Send order using an HTTP POST request
+- Handle network errors with user-friendly alerts
+- Persist delivery address using UserDefaults
+- Improve UI with gradients, reusable modifiers, and custom styling
 
 ---
 
 ## 🧠 What I Learned
 
-- Building forms with SwiftUI
-- Navigation using NavigationStack
-- Working with `@Observable` and `@Bindable`
-- Networking with `URLSession`
+- Building forms and multi-screen flows in SwiftUI
+- Navigation with `NavigationStack`
+- State management using `@Observable` and `@Bindable`
+- Sending network requests with `URLSession`
 - Using `async/await`
-- Encoding and decoding with `Codable`
-- Handling errors from APIs
-- Saving data locally with `UserDefaults`
-- Creating reusable UI components
+- Encoding data with `Codable`
+- Handling API and connection errors
+- Saving user data locally with `UserDefaults`
+- Reusing UI through custom modifiers
 
 ---
 
@@ -43,50 +43,55 @@ A SwiftUI app that allows users to order cupcakes, send data to a server, and ha
 
 ## ⚠️ API Note
 
-The original course by Paul Hudson uses:
+The original course by Paul Hudson uses this endpoint:
 
-https://reqres.in/api/cupcakes
+`https://reqres.in/api/cupcakes`
 
-However, this API now requires an API key (`x-api-key`), and without it returns a different response format, causing decoding errors.
+However, ReqRes now requires an API key (`x-api-key`) and no longer works the same way for this tutorial without additional setup.
 
-To ensure the app works correctly, the project uses:
+To keep the project functional for learning purposes, I replaced it with:
 
-https://jsonplaceholder.typicode.com/posts
+`https://jsonplaceholder.typicode.com/posts`
 
 Notes:
-- JSONPlaceholder does not have a `/cupcakes` endpoint
-- `/posts` is used for demonstration purposes
-- The response is not decoded back into `Order` due to different structure
+- JSONPlaceholder does not provide a `/cupcakes` endpoint
+- `/posts` is used only for demonstration and testing
+- The response is not decoded back into `Order` because the structure is different
 
 ---
 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Images/Screenshot%202026-03-27%20at%2000.35.04.png" width="200"/>
-  <img src="Images/Screenshot%202026-03-27%20at%2000.35.17.png" width="200"/>
-  <img src="Images/Screenshot%202026-03-27%20at%2000.35.28.png" width="200"/>
-  <img src="Images/Screenshot%202026-03-27%20at%2000.35.41.png" width="200"/>
-  <img src="Images/Screenshot%202026-03-27%20at%2000.35.51.png" width="200"/>
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.04.png" width="180" />
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.17.png" width="180" />
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.28.png" width="180" />
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.41.png" width="180" />
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.51.png" width="180" />
 </p>
 
 ---
 
 ## 📂 Project Structure
 
-- `CupcakeCorner/` – base version
-- `CupcakeCorner(updated)/` – improved logic
-- `CupcakeCorner(updated2)/` – final version with UI improvements
+- `CupcakeCorner/` — base version
+- `CupcakeCorner(updated)/` — challenge improvements
+- `CupcakeCorner(updated2)/` — final polished version with UI improvements
+- `Images/` — earlier screenshots
+- `README.md` — project overview
 
 ---
 
 ## 🎯 Summary
 
-This project demonstrates real-world iOS development concepts:
+This project demonstrates important real-world iOS development concepts:
+
 - collecting user input
+- validating data
 - sending data to a server
-- handling responses
+- handling responses and errors
 - persisting user data locally
+- improving UI with reusable SwiftUI components
 
 ---
 
@@ -94,66 +99,101 @@ This project demonstrates real-world iOS development concepts:
 
 ## 🍰 Проект 10 – CupcakeCorner
 
-Приложение на SwiftUI для заказа капкейков с отправкой данных на сервер и обработкой ответа.
+Приложение на SwiftUI, в котором пользователь может заказать капкейки, отправить данные на сервер и обработать ответ.
 
 ---
 
 ## 🚀 Возможности
 
 - Выбор типа и количества капкейков
-- Дополнительные опции (глазурь, посыпка)
+- Дополнительные опции: глазурь и посыпка
 - Ввод адреса доставки
-- Валидация данных (включая пробелы)
-- Отправка заказа (POST-запрос)
-- Обработка сетевых ошибок
-- Сохранение адреса через UserDefaults
-- Современный UI (градиенты и кастомные модификаторы)
+- Проверка введённых данных, включая строки из одних пробелов
+- Отправка заказа через POST-запрос
+- Обработка сетевых ошибок через понятные alert-сообщения
+- Сохранение адреса через `UserDefaults`
+- Улучшенный интерфейс: градиенты, переиспользуемые модификаторы и стили
 
 ---
 
 ## 🧠 Чему я научился
 
-- Работа с формами в SwiftUI
-- Навигация между экранами
-- Использование `@Observable` и `@Bindable`
-- Сетевые запросы через `URLSession`
+- Создавать формы и многоэкранные сценарии в SwiftUI
+- Использовать `NavigationStack`
+- Работать с `@Observable` и `@Bindable`
+- Выполнять сетевые запросы через `URLSession`
+- Использовать `async/await`
+- Кодировать данные через `Codable`
+- Обрабатывать ошибки сети и API
+- Сохранять данные локально через `UserDefaults`
+- Делать переиспользуемый UI с помощью собственных modifiers
+
+---
+
+## 🛠 Технологии
+
+- SwiftUI
 - Async/Await
-- Работа с `Codable`
-- Обработка ошибок
-- Сохранение данных локально
-- Создание переиспользуемого UI
+- URLSession
+- Codable
+- UserDefaults
 
 ---
 
 ## ⚠️ Примечание по API
 
-В оригинальном курсе используется:
+В оригинальном курсе Paul Hudson используется адрес:
 
-https://reqres.in/api/cupcakes
+`https://reqres.in/api/cupcakes`
 
-Сейчас этот API требует `x-api-key`, и без него возвращает другой формат ответа, что приводит к ошибке декодирования.
+Но сейчас ReqRes требует API-ключ (`x-api-key`), поэтому без дополнительной настройки этот адрес больше не подходит для проекта в исходном виде.
 
-Поэтому используется:
+Чтобы приложение работало корректно в учебных целях, я заменил адрес на:
 
-https://jsonplaceholder.typicode.com/posts
+`https://jsonplaceholder.typicode.com/posts`
 
 Важно:
-- нет `/cupcakes`, используется `/posts`
-- только для демонстрации
-- ответ не декодируется обратно в `Order`
+- у JSONPlaceholder нет endpoint `/cupcakes`
+- `/posts` используется только для демонстрации и тестирования
+- ответ сервера не декодируется обратно в `Order`, потому что структура отличается
+
+---
+
+## 📸 Скриншоты
+
+<p align="center">
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.04.png" width="180" />
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.17.png" width="180" />
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.28.png" width="180" />
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.41.png" width="180" />
+  <img src="CupcakeCorner(updated2)/Images/Screenshot%202026-03-27%20at%2000.35.51.png" width="180" />
+</p>
+
+---
+
+## 📂 Структура проекта
+
+- `CupcakeCorner/` — базовая версия
+- `CupcakeCorner(updated)/` — версия с улучшениями challenge
+- `CupcakeCorner(updated2)/` — финальная улучшенная версия с красивым UI
+- `Images/` — более ранние скриншоты
+- `README.md` — описание проекта
 
 ---
 
 ## 🎯 Итог
 
-Проект демонстрирует ключевые навыки iOS-разработки:
+Этот проект показывает важные практические навыки iOS-разработки:
+
 - работа с пользовательским вводом
+- валидация данных
 - отправка данных на сервер
-- обработка ответа
-- локальное хранение данных
+- обработка ответа и ошибок
+- локальное сохранение пользовательских данных
+- улучшение интерфейса с помощью переиспользуемых компонентов SwiftUI
 
 ---
 
-## 👨‍💻 Автор
+## 👨‍💻 Author
 
 Amanzhol
