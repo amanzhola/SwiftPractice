@@ -1,4 +1,3 @@
-````md
 # 📚 Bookworm (SwiftUI + SwiftData)
 
 A step-by-step SwiftUI project that grows from a simple book app into a polished SwiftData-powered tracker with ratings, reviews, dates, validation, and custom styling.
@@ -373,4 +372,3 @@ Text(book.date, format: .dateTime.day().month().year().hour().minute())
 * improving UI without breaking logic
 * combining polished design with system behavior
 
-````
