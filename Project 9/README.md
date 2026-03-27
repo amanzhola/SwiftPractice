@@ -180,38 +180,46 @@ Project 9
 
 ### Navigation — Part Two
 
-![Navigation Part Two](Navigation(part_two)/Images/Simulator Screenshot - iPhone 16 Pro - 2026-03-25 at 14.12.30.png)
-
+<p align="center">
+  <img src="Navigation(part_two)/Images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-03-25%20at%2014.12.30.png" width="220"/>
+</p>
 ---
 
 ### Navigation — Part Three
 
-![Navigation Part Three 1](Navigation(part_three)/Images/Screenshot 2026-03-25 at 15.53.12.png)
-![Navigation Part Three 2](Navigation(part_three)/Images/Screenshot 2026-03-25 at 15.53.28.png)
-![Navigation Part Three 3](Navigation(part_three)/Images/Screenshot 2026-03-25 at 15.55.24.png)
-
+<p align="center">
+  <img src="Navigation(part_three)/Images/Screenshot%202026-03-25%20at%2015.53.12.png" width="200"/>
+  <img src="Navigation(part_three)/Images/Screenshot%202026-03-25%20at%2015.53.28.png" width="200"/>
+  <img src="Navigation(part_three)/Images/Screenshot%202026-03-25%20at%2015.55.24.png" width="200"/>
+</p>
 ---
 
 ### iExpense
 
-![iExpense 1](iExpense(updated)/Images/Screenshot 2026-03-25 at 18.31.40.png)
-![iExpense 2](iExpense(updated)/Images/Screenshot 2026-03-25 at 18.32.37.png)
-![iExpense 3](iExpense(updated)/Images/Screenshot 2026-03-25 at 18.34.33.png)
-
+<p align="center">
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.54.12.png" width="200"/>
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.55.06.png" width="200"/>
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.55.27.png" width="200"/>
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.55.40.png" width="200"/>
+</p>
 ---
 
 ### iExpense — Updated 2
 
-![iExpense Updated 2](iExpense(updated_2)/Images/Screenshot 2026-03-25 at 19.03.23.png)
+<p align="center">
+  <img src="iExpense(updated_2)/Images/Screenshot%202026-03-25%20at%2019.03.23.png" width="220"/>
+</p>
 
 ---
 
-### Moonshot
+### Moonshot (updated)
 
-![Moonshot 1](Moonshot(updated)/Images/Screenshot 2026-03-25 at 20.54.12.png)
-![Moonshot 2](Moonshot(updated)/Images/Screenshot 2026-03-25 at 20.55.06.png)
-![Moonshot 3](Moonshot(updated)/Images/Screenshot 2026-03-25 at 20.55.27.png)
-![Moonshot 4](Moonshot(updated)/Images/Screenshot 2026-03-25 at 20.55.40.png)
+<p align="center">
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.54.12.png" width="200"/>
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.55.06.png" width="200"/>
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.55.27.png" width="200"/>
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.55.40.png" width="200"/>
+</p>
 
 ---
 
@@ -422,38 +430,47 @@ This is especially useful for understanding modern SwiftUI navigation.
 
 ### Navigation — Part Two
 
-![Navigation Part Two](Navigation(part_two)/Images/Simulator Screenshot - iPhone 16 Pro - 2026-03-25 at 14.12.30.png)
+<p align="center">
+  <img src="Navigation(part_two)/Images/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-03-25%20at%2014.12.30.png" width="220"/>
+</p>
 
 ---
 
 ### Navigation — Part Three
 
-![Navigation Part Three 1](Navigation(part_three)/Images/Screenshot 2026-03-25 at 15.53.12.png)
-![Navigation Part Three 2](Navigation(part_three)/Images/Screenshot 2026-03-25 at 15.53.28.png)
-![Navigation Part Three 3](Navigation(part_three)/Images/Screenshot 2026-03-25 at 15.55.24.png)
-
+<p align="center">
+  <img src="Navigation(part_three)/Images/Screenshot%202026-03-25%20at%2015.53.12.png" width="200"/>
+  <img src="Navigation(part_three)/Images/Screenshot%202026-03-25%20at%2015.53.28.png" width="200"/>
+  <img src="Navigation(part_three)/Images/Screenshot%202026-03-25%20at%2015.55.24.png" width="200"/>
+</p>
 ---
 
 ### iExpense
 
-![iExpense 1](iExpense(updated)/Images/Screenshot 2026-03-25 at 18.31.40.png)
-![iExpense 2](iExpense(updated)/Images/Screenshot 2026-03-25 at 18.32.37.png)
-![iExpense 3](iExpense(updated)/Images/Screenshot 2026-03-25 at 18.34.33.png)
+<p align="center">
+  <img src="iExpense(updated)/Images/Screenshot%202026-03-25%20at%2018.31.40.png" width="200"/>
+  <img src="iExpense(updated)/Images/Screenshot%202026-03-25%20at%2018.32.37.png" width="200"/>
+  <img src="iExpense(updated)/Images/Screenshot%202026-03-25%20at%2018.34.33.png" width="200"/>
+</p>
 
 ---
 
 ### iExpense — Updated 2
 
-![iExpense Updated 2](iExpense(updated_2)/Images/Screenshot 2026-03-25 at 19.03.23.png)
+<p align="center">
+  <img src="iExpense(updated_2)/Images/Screenshot%202026-03-25%20at%2019.03.23.png" width="220"/>
+</p>
 
 ---
 
 ### Moonshot
 
-![Moonshot 1](Moonshot(updated)/Images/Screenshot 2026-03-25 at 20.54.12.png)
-![Moonshot 2](Moonshot(updated)/Images/Screenshot 2026-03-25 at 20.55.06.png)
-![Moonshot 3](Moonshot(updated)/Images/Screenshot 2026-03-25 at 20.55.27.png)
-![Moonshot 4](Moonshot(updated)/Images/Screenshot 2026-03-25 at 20.55.40.png)
+<p align="center">
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.54.12.png" width="200"/>
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.55.06.png" width="200"/>
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.55.27.png" width="200"/>
+  <img src="Moonshot(updated)/Images/Screenshot%202026-03-25%20at%2020.55.40.png" width="200"/>
+</p>
 
 ---
 
