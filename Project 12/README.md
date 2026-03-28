@@ -19,12 +19,12 @@ The goal of this project was not just to follow tutorials, but to deeply underst
 ---
 
 ## 📦 Project Structure
-
+````
 Project 12/
 ├── SwiftDataProject(part_one)
 ├── SwiftDataProject(part_two)
 └── iExpense
-
+````
 ---
 
 # 🧩 Part One — SwiftData Basics
@@ -244,12 +244,12 @@ Amanzhol 🚀
 ---
 
 ## 📦 Структура проекта
-
+````
 Project 12/
 ├── SwiftDataProject(part_one)
 ├── SwiftDataProject(part_two)
 └── iExpense
-
+````
 ---
 
 # 🧩 Часть 1 — Основы SwiftData
