@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		43CCFEE32F7713FD00B7968E /* Bookworm(final).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bookworm(final).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		43CCFF512F77E67C00B7968E /* SwiftDataProject(part_two).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftDataProject(part_two).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		43CCFEE52F7713FD00B7968E /* Bookworm(final) */ = {
+		43CCFF532F77E67C00B7968E /* SwiftDataProject(part_two) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Bookworm(final)";
+			path = "SwiftDataProject(part_two)";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		43CCFEE02F7713FD00B7968E /* Frameworks */ = {
+		43CCFF4E2F77E67C00B7968E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		43CCFEDA2F7713FD00B7968E = {
+		43CCFF482F77E67C00B7968E = {
 			isa = PBXGroup;
 			children = (
-				43CCFEE52F7713FD00B7968E /* Bookworm(final) */,
-				43CCFEE42F7713FD00B7968E /* Products */,
+				43CCFF532F77E67C00B7968E /* SwiftDataProject(part_two) */,
+				43CCFF522F77E67C00B7968E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		43CCFEE42F7713FD00B7968E /* Products */ = {
+		43CCFF522F77E67C00B7968E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				43CCFEE32F7713FD00B7968E /* Bookworm(final).app */,
+				43CCFF512F77E67C00B7968E /* SwiftDataProject(part_two).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		43CCFEE22F7713FD00B7968E /* Bookworm(final) */ = {
+		43CCFF502F77E67C00B7968E /* SwiftDataProject(part_two) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 43CCFEEE2F7713FF00B7968E /* Build configuration list for PBXNativeTarget "Bookworm(final)" */;
+			buildConfigurationList = 43CCFF5C2F77E67E00B7968E /* Build configuration list for PBXNativeTarget "SwiftDataProject(part_two)" */;
 			buildPhases = (
-				43CCFEDF2F7713FD00B7968E /* Sources */,
-				43CCFEE02F7713FD00B7968E /* Frameworks */,
-				43CCFEE12F7713FD00B7968E /* Resources */,
+				43CCFF4D2F77E67C00B7968E /* Sources */,
+				43CCFF4E2F77E67C00B7968E /* Frameworks */,
+				43CCFF4F2F77E67C00B7968E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				43CCFEE52F7713FD00B7968E /* Bookworm(final) */,
+				43CCFF532F77E67C00B7968E /* SwiftDataProject(part_two) */,
 			);
-			name = "Bookworm(final)";
+			name = "SwiftDataProject(part_two)";
 			packageProductDependencies = (
 			);
-			productName = "Bookworm(final)";
-			productReference = 43CCFEE32F7713FD00B7968E /* Bookworm(final).app */;
+			productName = "SwiftDataProject(part_two)";
+			productReference = 43CCFF512F77E67C00B7968E /* SwiftDataProject(part_two).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		43CCFEDB2F7713FD00B7968E /* Project object */ = {
+		43CCFF492F77E67C00B7968E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					43CCFEE22F7713FD00B7968E = {
+					43CCFF502F77E67C00B7968E = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = 43CCFEDE2F7713FD00B7968E /* Build configuration list for PBXProject "Bookworm(final)" */;
+			buildConfigurationList = 43CCFF4C2F77E67C00B7968E /* Build configuration list for PBXProject "SwiftDataProject(part_two)" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 43CCFEDA2F7713FD00B7968E;
+			mainGroup = 43CCFF482F77E67C00B7968E;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 43CCFEE42F7713FD00B7968E /* Products */;
+			productRefGroup = 43CCFF522F77E67C00B7968E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				43CCFEE22F7713FD00B7968E /* Bookworm(final) */,
+				43CCFF502F77E67C00B7968E /* SwiftDataProject(part_two) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		43CCFEE12F7713FD00B7968E /* Resources */ = {
+		43CCFF4F2F77E67C00B7968E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		43CCFEDF2F7713FD00B7968E /* Sources */ = {
+		43CCFF4D2F77E67C00B7968E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		43CCFEEC2F7713FF00B7968E /* Debug */ = {
+		43CCFF5A2F77E67E00B7968E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		43CCFEED2F7713FF00B7968E /* Release */ = {
+		43CCFF5B2F77E67E00B7968E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		43CCFEEF2F7713FF00B7968E /* Debug */ = {
+		43CCFF5D2F77E67E00B7968E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -259,13 +259,12 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hackingwithSwift.Bookworm-final-";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hackingwithSwift.SwiftDataProject-part-two-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -273,7 +272,7 @@
 			};
 			name = Debug;
 		};
-		43CCFEF02F7713FF00B7968E /* Release */ = {
+		43CCFF5E2F77E67E00B7968E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -288,13 +287,12 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hackingwithSwift.Bookworm-final-";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hackingwithSwift.SwiftDataProject-part-two-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -305,25 +303,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		43CCFEDE2F7713FD00B7968E /* Build configuration list for PBXProject "Bookworm(final)" */ = {
+		43CCFF4C2F77E67C00B7968E /* Build configuration list for PBXProject "SwiftDataProject(part_two)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				43CCFEEC2F7713FF00B7968E /* Debug */,
-				43CCFEED2F7713FF00B7968E /* Release */,
+				43CCFF5A2F77E67E00B7968E /* Debug */,
+				43CCFF5B2F77E67E00B7968E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		43CCFEEE2F7713FF00B7968E /* Build configuration list for PBXNativeTarget "Bookworm(final)" */ = {
+		43CCFF5C2F77E67E00B7968E /* Build configuration list for PBXNativeTarget "SwiftDataProject(part_two)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				43CCFEEF2F7713FF00B7968E /* Debug */,
-				43CCFEF02F7713FF00B7968E /* Release */,
+				43CCFF5D2F77E67E00B7968E /* Debug */,
+				43CCFF5E2F77E67E00B7968E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 43CCFEDB2F7713FD00B7968E /* Project object */;
+	rootObject = 43CCFF492F77E67C00B7968E /* Project object */;
 }
